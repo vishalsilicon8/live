@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 16" width="23" height="16">
+	<title>9 get in touch</title>
+	<defs>
+		<image width="23" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAQCAYAAAD9L+QYAAAAAXNSR0IArs4c6QAAAKlJREFUOE+1lDEOwkAMBMeiSQctgo4OCr5Aw58p+QEURIKCjh/wgEUXiQiF5CLZuetv1l6vbTifpAtQAUcze/VhzMlG0g3YAU/g0CcQga+BM7AZEnDDU8eSsgIh+JhAGJ4TaOCSFt7B/vxLFp2AVTsDSVdgPwG8i7hbQfjja8sciPj/BpZ/0ZzCjqFIRqpt6splPQQvtkRj4NSVu3JJNbAtdbjSVZzlTu4HHhJa7K4LOBoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="9 get in touch">
+		<use id="Vector Smart Object copy 4" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>
